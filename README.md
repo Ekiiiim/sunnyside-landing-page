@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a practice project for improving responsive skills. The challenge is from [Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Below is the original description of the challenge.
+This is a practice project for improving responsive website programming skills. The challenge is from [Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Below is the original description of the challenge.
 
 ## The challenge
 
